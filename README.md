@@ -99,8 +99,3 @@ clearly labeled block.
 - Python 3, `requests`, `beautifulsoup4`, `pandas`
 - Gemini API key (Google `genai` client)
 
-## Known Limitation
-The current notebook has the Gemini API key hardcoded in a code cell.
-Before sharing or submitting this notebook, that key should be moved to
-an environment variable or `.env` file and removed from the visible
-source.# AI-Assisted-Quality-Auditor-for-Personal-Services-Websites
